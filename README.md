@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
 
-## The things I could add to the app functionality
+## The things I would add to the app functionality
 1. adding another task in-between tasks
 2. scratch the finish tasks (line-through the todo)
 3. display the date to the right of the todo
