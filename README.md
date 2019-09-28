@@ -4,7 +4,7 @@
 
 Submitted by: **Phyo Khine**
 
-Time spent: **6 hours** hours spent in total
+Time spent: **8 hours** hours spent in total
 
 ## User Stories
 
@@ -20,7 +20,12 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+
+## The things I could add to the app functionality
+1. adding another task in-between tasks
+2. scratch the finish tasks (line-through the todo)
+3. display the date to the right of the todo
 
 ## Video Walkthrough
 
